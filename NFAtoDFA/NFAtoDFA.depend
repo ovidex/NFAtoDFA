@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555357269 source:c:\users\ovi games\desktop\code\nfatodfa\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<set>
+
